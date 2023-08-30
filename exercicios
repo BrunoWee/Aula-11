@@ -1,0 +1,62 @@
+//Exercicio 1
+/*
+function ImprimaOlaMundo() {
+    console.log("Olá mundo!");
+}
+ImprimaOlaMundo();
+
+//Exercicio 2
+function  escreveNome(nome) {
+    console.log(nome);
+}
+let meuNome = "Bruno";
+escreveNome(meuNome);
+*/
+/*
+const a = 1
+
+function imprimeVariavel () {
+ const b = 2
+console.log("Variável a", a)
+console.log("Variável b", b)
+}
+
+imprimeVariavel()
+
+console.log("Variável a", a)
+console.log("Variável b", b)
+*/
+
+/*
+function calculaArea (altura, largura) {
+    const area = altura * largura;
+    return area;
+}
+const areaCalculada = calculaArea(5, 8);
+
+console.log("Variável areaCalculada: "+ areaCalculada);
+console.log("Chamada da funcão crua: " + calculaArea(5, 3));
+*/
+
+//Exercicio 3
+/*
+function doisNumeros (num1, num2) {
+    const soma = num1 + num2;
+    return soma;
+}
+const somaNumeros = doisNumeros(7, 5);
+
+console.log("Soma: " + somaNumeros);
+*/
+/*
+//Exercicio 4
+function divideArray(meuArray){
+    let b = [(meuArray[0] /2), (meuArray[meuArray.length-1] /2)];
+
+    return b;
+}
+let a = [1,2,3,4,5];
+
+const resultado = divideArray(a)
+console.log(resultado);
+*/
